@@ -15,8 +15,8 @@ img{
 }
 .text-box{
     width: 450px;
-    padding-left: 150px;
-    padding-top: 226px;
+    padding-left: 162px;
+    padding-top: 230px;
     float: left;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -83,9 +83,89 @@ p{
 
 .bg-2{
     background-image: url("personal-website/biography-bg.png");
-    height: 700px;
+    height: 850px;
+    background-size: cover;
 }
 
 #imgg{
     padding-left: 150px;
+}
+
+
+
+
+.last-bg{
+    background-image: url("personal-website/latest-work-bg.png");
+    background-repeat: no-repeat;
+    height: 600px;
+    background-size: cover;
+    
+}
+
+.img-in-3{
+    width: 29.33%;
+    float: left;
+    padding: 10px;
+}
+
+#latest{
+    padding: 90px 0px 80px 0px;
+    color: rgb(41, 41, 41);
+    text-align: center;
+    font-family: arial;
+    font-weight: 700;
+}
+
+.padding-apply{
+    padding-left: 78px;
+}
+
+
+.last-bg-2{
+    background-image: url("personal-website/footer-bg.png");
+    background-repeat: no-repeat;
+    height: 900px;
+    background-size: cover;
+}
+
+.bruce-sec{
+    text-align: center;
+    font-family: arial;
+}
+.bruce-sec{
+    font-size: 14px;
+    color: rgb(34, 34, 34);
+}
+
+.bruce-sec p{
+    margin-top: -10px;
+    font-size: 13px;
+    font-family: arial;
+    
+}
+
+
+.lorem-ipsum{
+    text-align: center; 
+    padding-left: 412px;
+    width: 400px;
+    
+}
+.lorem-ipsum p{
+    color: #515151;
+    font-family: arial;
+    line-height: 27px;
+    font-size: 17px; 
+}
+
+#last-sec{
+    background: #EC4F8E;
+    text-decoration: none;
+    padding: 60px 160px 60px 160px;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 330px;
+}
+.last-sec-finish{
+    padding-top: 90px;
 }
